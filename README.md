@@ -1,7 +1,8 @@
-  # Report Passwords #
-* Author: Noelia Ruiz Martínez.
+# Report Passwords #
+  
+* Authors: Noelia Ruiz Martínez.
 
-This add-on adds the option of speaking the typed text on protected controls as passwords.
+This add-on adds the option of speaking the text typed on protected controls as passwords.
 
 ## Key commands ##
 * nvda+control+shift+p: Toggles on and off the speaking of text typed on protected controls as passwords.
