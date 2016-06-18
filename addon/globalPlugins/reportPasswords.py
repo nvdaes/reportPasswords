@@ -7,6 +7,7 @@
 import addonHandler
 import globalPluginHandler
 import api
+import controlTypes
 import ui
 import config
 import wx
@@ -23,11 +24,15 @@ confspec = {
 config.conf.spec["reportPasswords"] = confspec
 isTypingProtected = api.isTypingProtected
 
-def unprotectControls():
-	return False
-
 def restoreIsProtected():
 	api.isTypingProtected = isTypingProtected
+
+def addonIsTypingProtected():
+	if config.conf["reportPasswords"]["unprotectControls"]:
+		return False
+	focusObject = api.getFocusObject()
+	if focusObject and (controlTypes.STATE_PROTECTED in focusObject.states or focusObject.role==controlTypes.ROLE_PASSWORDEDIT):
+		return True
 
 class AddonSettingsDialog(SettingsDialog):
 
@@ -45,18 +50,13 @@ class AddonSettingsDialog(SettingsDialog):
 
 	def onOk(self,evt):
 		config.conf["reportPasswords"]["unprotectControls"] = self.reportPasswordsCheckBox.GetValue()
-		if config.conf["reportPasswords"]["unprotectControls"]:
-			api.isTypingProtected = unprotectControls
-		else:
-			restoreIsProtected()
 		super(AddonSettingsDialog, self).onOk(evt)
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	def __init__(self):
 		super(globalPluginHandler.GlobalPlugin, self).__init__()
-		if config.conf["reportPasswords"]["unprotectControls"]:
-			api.isTypingProtected = unprotectControls
+		api.isTypingProtected = addonIsTypingProtected
 		self.prefsMenu = gui.mainFrame.sysTrayIcon.preferencesMenu
 		self.settingsItem = self.prefsMenu.Append(wx.ID_ANY,
 			# Translators: name of the option in the menu.
@@ -65,8 +65,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 		gui.mainFrame.sysTrayIcon.Bind(wx.EVT_MENU, self.onSettings, self.settingsItem)
 
 	def terminate(self):
-		if config.conf["reportPasswords"]["unprotectControls"]:
-			restoreIsProtected()
+		restoreIsProtected()
 		try:
 			self.prefsMenu.RemoveItem(self.settingsItem)
 		except wx.PyDeadObjectError:
@@ -84,10 +83,8 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	def script_toggleReportPasswords(self, gesture):
 		config.conf["reportPasswords"]["unprotectControls"] = not config.conf["reportPasswords"]["unprotectControls"]
 		if config.conf["reportPasswords"]["unprotectControls"]:
-			api.isTypingProtected = unprotectControls
 			ui.message(_("Report passwords on"))
 		else:
-			restoreIsProtected()
 			ui.message(_("Report passwords off"))
 	script_toggleReportPasswords.category = SCRCAT_SPEECH
 	# Translators: message presented in input help mode.
