@@ -1,18 +1,14 @@
 # Report Passwords #
-  
+
 * Authors: Noelia Ruiz Martínez.
 
-This add-on adds the option of speaking the text typed on protected controls as passwords.
+This add-on adds the option of speaking the text typed on protected controls like passwords.
 
-## Key commands ##
-* nvda+control+shift+p: Toggles on and off the speaking of text typed on protected controls as passwords.
+## How to configure
 
-Note: The above command can be changed from NVDA menu, Preferences submenu, Input gestures dialog, Speech category.
+The add-on can be configured from its category in the NVDA's settings dialog, under NVDA's menu, Preferences submenu. A gesture for opening the add-on settings panel can be assigned from Input gestures dialog, configuration category.
 
-## Preferences Menu ##
-* Report Passwords settings: Allows to toggle on and off the speaking of text typed on protected controls as passwords.
-
-Note: The above command can be changed from NVDA menu, Preferences submenu, Input gestures dialog, Configuration category.
+Tip: If you aren't used to configure NVDA to speak typed characters or words and want to hear typed text in passwords, you may create a configuration profile to enable the speaking of typed characters and passwords, and assign it to a gesture or create a trigger to enable it automatically in certain situations. For convenience, NVDA will ask if you want to set a dedicated profile when the add-on is installed.
 
 ## Changes for 1.0 ##
 * Initial version.
