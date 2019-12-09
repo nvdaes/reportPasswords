@@ -22,7 +22,7 @@ def onInstall():
 		_("If you want hear typed characters in protected controls like passwords, you need to enable the Report passwords option of this add-on and configure NVDA to speak typed characters. This may be useful just in certain situations, so you can create an NVDA's configuration profile for this. Do you want to set these options in a profile named reportPasswords with these settings now?"),
 		# Translators: the title of a message box dialog.
 		_("Set a dedicated profile for this add-on"),
-		wx.YES|wx.NO|wx.ICON_QUESTION
+		wx.YES|wx.NO|wx.ICON_WARNING
 	)==wx.YES:
 		try:
 			config.conf.createProfile("reportPasswords")
