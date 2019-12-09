@@ -1,6 +1,9 @@
 # Report Passwords #
 
-* Authors: Noelia Ruiz Martínez.
+* Authors: Noelia Ruiz Martínez
+* NVDA compatibility: 2019.3 or later
+* Download [stable version][1]
+* Download [development version][2]
 
 This add-on adds the option of speaking the text typed on protected controls like passwords.
 
