@@ -5,7 +5,9 @@
 * Download [stable version][1]
 * Download [development version][2]
 
-This add-on adds the option of speaking the text typed on protected controls like passwords.
+This add-on adds the option of speaking the text typed on protected controls like passwords, such as when logging into web-based email sites, where typed characters are spoken as asterisks.
+
+Note: NVDA has an option to configure if typed passwords will be spoken on Windows terminals. This add-on won't affect that kind of controls, where typed characters in passwords can be read or silenced, but won't be spoken as asterisks.
 
 ## How to configure
 
