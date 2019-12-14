@@ -17,6 +17,7 @@ Tip: If you aren't used to configure NVDA to speak typed characters or words and
 
 ## Changes for 1.0 ##
 * Initial version.
+
 [1]: http://addons.nvda-project.org/files/get.php?file=rp
 
 [2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
