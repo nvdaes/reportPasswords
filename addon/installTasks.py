@@ -1,4 +1,4 @@
-﻿# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 # installTasks for reportPasswords add-on
 #Copyright (C) 2016-2019 Noelia Ruiz Martínez
