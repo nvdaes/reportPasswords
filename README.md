@@ -7,7 +7,7 @@
 
 This add-on adds the option of speaking the text typed in protected controls like passwords, such as when logging into web-based email sites, where typed characters are spoken as asterisks.
 
-Note: NVDA has an option to configure if typed passwords will be spoken in Windows terminals. This add-on won't affect those kind of controls,
+Note: NVDA has an option to configure if typed passwords will be spoken in Windows terminals. This add-on won't affect those kinds of controls.
 
 ## How to configure
 
