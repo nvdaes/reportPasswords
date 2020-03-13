@@ -17,7 +17,7 @@ addon_info = {
 	"addon_summary" : _("Report Passwords"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description" : _("""When this add-on is installed, NVDA can report the text typed on protected controls as passwords."""),
+	"addon_description" : _("""When this add-on is installed, NVDA can report the text typed in protected controls such as passwords."""),
 	# version
 	"addon_version" : "1.0",
 	# Author(s)
