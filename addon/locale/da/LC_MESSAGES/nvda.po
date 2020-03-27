@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the reportPasswords package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: reportPasswords 1.1\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2020-03-15 00:06+1000\n"
+"PO-Revision-Date: 2020-03-20 10:53+0100\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Nicolai Svendsen <chojiro1990@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+
+#. Translators: the label of a message box dialog.
+msgid ""
+"If you want to hear typed characters in protected controls like passwords, "
+"you need to enable the Report passwords option of this add-on and configure "
+"NVDA to speak typed characters. This may be useful just in certain "
+"situations, so you can create an NVDA's configuration profile for this. Do "
+"you want to set these options in a profile named reportPasswords with these "
+"settings now?"
+msgstr ""
+"Hvis du vil høre indtastede tegn i beskyttede kontroller som adgangskoder, "
+"skal du aktivere indstillingen \"Rapporter adgangskoder\" i denne "
+"tilføjelse og konfigurere NVDA til at udtale indtastede tegn. Dette kan "
+"være nyttigt i visse situationer, så du kan oprette en konfigurationsprofil "
+"til dette formål. Vil du indstille disse indstillinger i en profil, der "
+"hedder \"reportPasswords\" nu?"
+
+#. Translators: the title of a message box dialog.
+msgid "Set a dedicated profile for this add-on"
+msgstr "Angiv en bestemt profil til denne tilføjelse"
+
+#. Translators: label of a dialog.
+msgid "&Report passwords"
+msgstr "&Rapportér adgangskoder"
+
+#. Translators: Describes a command.
+#, python-format
+msgid "Shows the %s settings."
+msgstr "Viser indstillingerne for %s"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Report Passwords"
+msgstr "Rapportér Adgangskoder"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"When this add-on is installed, NVDA can report the text typed in protected "
+"controls such as passwords."
+msgstr ""
+"Når denne tilføjelse er installeret, kan NVDA rapportere den tekst, der er "
+"indtastet i beskyttede kontroller, f.eks. Adgangskoder."
