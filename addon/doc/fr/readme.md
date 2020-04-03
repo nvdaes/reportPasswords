@@ -5,9 +5,9 @@
 * Télécharger [version de développement][2]
 
 Cette extension ajoute la possibilité de verbaliser le texte tapé dans les
-contrôles protégés par mots de passe, telles que lors de la connexion à des
-sites de messagerie Web où les caractères tapés sont annoncées par des
-astérisques.
+contrôles protégés telles que les mots de passe, par exemple lors de la
+connexion à des sites de messagerie Web où les caractères tapés sont
+annoncées par des astérisques.
 
 Remarque: NVDA a une option pour configurer si les mots de passe tapés
 seront annoncées sur les terminaux Windows. Cette extension n'affectera pas
