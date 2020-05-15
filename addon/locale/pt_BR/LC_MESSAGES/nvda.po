@@ -1,0 +1,63 @@
+# Brazilian Portuguese translation of reportPasswords.
+# Copyright (C) 2020 NVDA Contributors.
+# This file is distributed under the same license as the NVDA package.
+# Rui Fontes <rui.fontes@tiflotecnia.com>, 2020.
+# Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: reportPasswords\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2020-03-15 00:06+1000\n"
+"PO-Revision-Date: 2020-05-10 15:02-0300\n"
+"Last-Translator: Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>\n"
+"Language-Team: NVDA Brazilian Portuguese translation team (Equipe de "
+"tradução do NVDA para Português Brasileiro) <clever97@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+
+#. Translators: the label of a message box dialog.
+msgid ""
+"If you want to hear typed characters in protected controls like passwords, "
+"you need to enable the Report passwords option of this add-on and configure "
+"NVDA to speak typed characters. This may be useful just in certain "
+"situations, so you can create an NVDA's configuration profile for this. Do "
+"you want to set these options in a profile named reportPasswords with these "
+"settings now?"
+msgstr ""
+"Se quiser ouvir caracteres digitados em controles protegidos, como senhas, "
+"precisará habilitar a opção Informar senhas deste complemento e configurar o "
+"NVDA para falar caracteres digitados. Isso pode ser útil apenas em algumas "
+"situações, portanto pode criar um perfil de configurações do NVDA para este "
+"efeito. Deseja definir essas opções em um perfil chamado reportPasswords com "
+"essas configurações agora?"
+
+#. Translators: the title of a message box dialog.
+msgid "Set a dedicated profile for this add-on"
+msgstr "Definir um perfil dedicado para esse complemento"
+
+#. Translators: label of a dialog.
+msgid "&Report passwords"
+msgstr "&Informar senhas"
+
+#. Translators: Describes a command.
+#, python-format
+msgid "Shows the %s settings."
+msgstr "Mostra as configurações de %s."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Report Passwords"
+msgstr "Informar Senhas"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"When this add-on is installed, NVDA can report the text typed in protected "
+"controls such as passwords."
+msgstr ""
+"Quando esse complemento está instalado, o NVDA pode informar o texto "
+"digitado nos controles protegidos, como senhas."
