@@ -4,12 +4,12 @@
 * Завантажити [стабільну версію][1]
 * Завантажити [версію в розробці][2]
 
-This add-on adds the option of speaking the text typed in protected controls
-like passwords, such as when logging into web-based email sites, where typed
-characters are spoken as asterisks.
+Цей додаток додає опцію промовляння тексту, який вводиться на захищених
+елементах керування, наприклад, паролів на сайтах, коли символи під час
+введення промовляються як зірочки.
 
-Note: NVDA has an option to configure if typed passwords will be spoken in
-Windows terminals. This add-on won't affect those kinds of controls.
+Примітка: NVDA дозволяє налаштувати вимову паролів у терміналах Windows.
+Цей додаток не впливає на такі елементи керування.
 
 ## Як налаштувати
 
@@ -18,12 +18,12 @@ Windows terminals. This add-on won't affect those kinds of controls.
 додатка з будь-якого місця можна призначити в пункті «Жести вводу», в
 категорії «Конфігурація».
 
-Tip: If you have not configured NVDA to speak typed characters or words but
-want to hear typed text in passwords, you may create a configuration profile
-to enable the speaking of typed characters and passwords, and assign it to a
-gesture or create a trigger to enable it automatically in certain
-situations. For convenience, NVDA will ask if you want to create a dedicated
-profile when the add-on is installed.
+Порада: якщо ви не налаштували NVDA на вимову символів чи  слів під час
+введення, але хочете чути текст, який вводиться у поля паролів, ви можете
+створити конфігураційний профіль, в якому дозволити вимову символів та
+паролів, і призначити на нього жест, або створити автоперемикач для його
+автоматичної активації в певних ситуаціях. Для зручності NVDA запитає, чи
+хочете ви встановити спеціальний профіль при встановленні додатка.
 
 ## Зміни у версії 1.0 ##
 * Перша версія.
