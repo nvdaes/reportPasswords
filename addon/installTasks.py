@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # installTasks for reportPasswords add-on
-#Copyright (C) 2016-2020 Noelia Ruiz Martínez
+# Copyright (C) 2016-2020 Noelia Ruiz Martínez
 # Released under GPL 2
 
 import wx
