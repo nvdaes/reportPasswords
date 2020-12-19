@@ -1,0 +1,1 @@
+Compatible with NVDA 2020.4beta1
