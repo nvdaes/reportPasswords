@@ -1,10 +1,9 @@
 # -*- coding: UTF-8 -*-
 
 # installTasks for reportPasswords add-on
-#Copyright (C) 2016-2019 Noelia Ruiz Martínez
+#Copyright (C) 2016-2020 Noelia Ruiz Martínez
 # Released under GPL 2
 
-import gui
 import wx
 import config
 import addonHandler
@@ -17,6 +16,7 @@ confspec = {
 config.conf.spec["reportPasswords"] = confspec
 
 def onInstall():
+	import gui
 	if gui.messageBox(
 		# Translators: the label of a message box dialog.
 		_("If you want to hear typed characters in protected controls like passwords, you need to enable the Report passwords option of this add-on and configure NVDA to speak typed characters. This may be useful just in certain situations, so you can create an NVDA's configuration profile for this. Do you want to set these options in a profile named reportPasswords with these settings now?"),
