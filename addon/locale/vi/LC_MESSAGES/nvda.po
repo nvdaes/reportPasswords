@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the eMule package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule 3.4\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2017-02-10 05:05+1000\n"
+"PO-Revision-Date: 2018-09-28 23:22+0700\n"
+"Last-Translator: Dang Manh Cuong <dangmanhcuong@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "Đọc cột được chỉ định của thành phần hiện tại trong danh sách."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "Đã chép %s vào bộ nhớ tạm"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr ""
+"Chép cột cuối cùng được đọc ở thành phần đã chọn trong danh sách hiện tại "
+"vào bộ nhớ tạm."
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "Chuyển focus hệ thống và chuột đến thanh công cụ chính."
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "Thông báo cửa sổ hiện tại."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "Chuyển focus hệ thống đến trường Name (tên) trong cửa sổ tìm kiếm."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"Chuyển focus hệ thống và  chuột đến danh sách các tham số tìm kiếm hoặc "
+"trường nhập liệu cho mỗi tùy chọn trong cửa sổ tìm kiếm."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"Chuyển focus hệ thống đến danh sách đầu tiên trong cửa sổ hiện tại. Ví dụ "
+"như danh sách kết quả trong cửa sổ tìm kiếm, cái gì đang được tải, v..v..."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr ""
+"Chuyển focus hệ thống đến các hộp có thuộc tính chỉ đọc trong cửa sổ hiện "
+"tại. Ví dụ như các thông điệp IRC."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr ""
+"Chuyển đối tượng điều hướng và chuột đến các tiêu đề của danh sách hiện tại."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "Thông báo đối tượng thứ nhất của thanh trạng thái."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "Thông báo đối tượng thứ hai của thanh trạng thái."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "Thông báo đối tượng thứ ba của thanh trạng thái."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "Thông báo đối tượng thứ tư của thanh trạng thái."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"Cải thiện khả năng tiếp cận của eMule's với NVDA.\n"
+"eMule là chương trình P2P để tìm kiếm và chia sẻ dữ liệu.\n"
+"Xem thêm thông tin về eMule tại\n"
+"http://www.emule-project.net"

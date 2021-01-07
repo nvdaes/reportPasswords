@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <wwenikola123@gmail.com>, YEAR. 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule 1.2\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2014-09-19 05:05+1000\n"
+"PO-Revision-Date: 2018-11-25 22:08+0100\n"
+"Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
+"Language-Team: serbian <wwenikola123@gmail.com>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "Čita izabranu kolonu za trenutnu stavku liste."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "%s kopirano u privremenu memoriju"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr "Kopira poslednju pročitanu kolonu u privremenu memoriju."
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "Premešta fokus sistema i miš u traku sa alatkama"
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "Prijavljuje trenutni prozor."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "Pomera sistemski fokus u polje za unos imena prozora za pretragu."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"Premešta sistemski fokus i miš na listu parametara za pretragu ili na polje "
+"za izmenu za svaku opciju, u prozoru za pretragu."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"Pomera sistemski fokus na prvu listu u trenutnom prozoru. Na primer na listu "
+"rezultata u prozoru za pretragu, listu svih preuzimanja, itd."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr ""
+"Pomera sistemski fokus na polja samo za čitanje u trenutno aktivnom prozoru. "
+"Na primer primljene IRC poruke u čet prozoru."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr "Pomera objekat navigatora i miš na trenutna zaglavlja liste."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "Prijavljuje prvi objekat statusne trake."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "Prijavljuje drugi objekat statusne trake."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "Prijavljuje treći objekat statusne trake."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "Prijavljuje četvrti objekat statusne trake."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"Poboljšava pristupačnost eMule programa sa NVDA.\n"
+"eMule je P2P program za pretragu i deljenje datoteka.\n"
+"Više informacija o eMule možete naći na\n"
+"http://www.emule-project.net"
+
+#~ msgid "text \"%s\" not found"
+#~ msgstr "tekst \"%s\" nije pronađen"
+
+#~ msgid "Find Error"
+#~ msgstr "Greška pretrage"
+
+#~ msgid "Search for:"
+#~ msgstr "Šta tražiti:"
+
+#~ msgid "eMule search"
+#~ msgstr "eMule pretraga"
+
+#~ msgid "Opens the find dialog when in read only edit boxes."
+#~ msgstr "Otvara dijalog za pretragu kada si u poljima samo za čitanje."
+
+#~ msgid "Find next occurence."
+#~ msgstr "Traži sledeće pojavljivanje."
+
+#~ msgid "Find previous occurrence."
+#~ msgstr "Traži prethodno pojavljivanje."

@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule 1.0-dev\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-04 11:33+0200\n"
+"PO-Revision-Date: 2020-01-12 15:42+0100\n"
+"Last-Translator: Ondrej Rosík <ondrej.rosik@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "Prečíta vybratý stĺpec pre aktuálnu položku."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "%s skopírované do schránky"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr "Skopíruje posledný prečítaný stĺpec pre aktuálnu položku do schránky."
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "presunie systémový fokus a myš na hlavný panel nástrojov."
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "prečíta názov aktuálneho okna."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "presunie systémový kurzor na pole názov v okne hľadania."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"presunie systémový fokus a myš na zoznam parametrov hľadania alebo na "
+"editačné pole pre každý parameter v okne hľadania."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"presunie systémový fokus do prvého zoznamu v aktuálnom okne. Napríklad do "
+"zoznamu výsledkov v okne hľadania, alebo do zoznamu sťahovania pri prenose a "
+"podobne."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr "Presunie systémový fokus do neprepisovateľných polí, napr správ IRC."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr "presunie systémový kurzor a myš na hlavičky aktuálneho zoznamu."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "prečíta prvý objekt na stavovom riadku."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "prečíta druhý objekt na stavovom riadku."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "prečíta tretí objekt na stavovom riadku."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "prečíta štvrtý objekt na stavovom riadku."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"Zlepšuje prístupnosť programu eMule s NVDA.\n"
+"EMule je P2P program na vyhľadávanie a zdieľanie súborov.\n"
+"Viac Informácií o eMule nájdete na\n"
+"https://www.emule-project.net"
+
+#~ msgid "text \"%s\" not found"
+#~ msgstr "text \"%s\" nebol nájdený"
+
+#~ msgid "Find Error"
+#~ msgstr "Chyba vyhľadávania"
+
+#~ msgid "Search for:"
+#~ msgstr "Hľadať:"
+
+#~ msgid "eMule search"
+#~ msgstr "Hľadať"
+
+#~ msgid "Opens the find dialog when in read only edit boxes."
+#~ msgstr "otvorí dialóg hľadania  v editačných poliach len na čítanie."
+
+#~ msgid "Find next occurence."
+#~ msgstr "Hľadá ďalší výskyt reťazca."
+
+#~ msgid "Find previous occurrence."
+#~ msgstr "Hľadá predchádzajúci výskyt reťazca."

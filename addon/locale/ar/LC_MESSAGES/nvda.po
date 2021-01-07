@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule 1.0-dev\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-04 11:33+0200\n"
+"PO-Revision-Date: 2019-09-04 17:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "قراءة العمود المحدد الخاص بعنصر القائمة الحالي."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "تم نسخ %s إلى الحافظة"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr "نسخ آخر عمود مقروء بعنصر القائمة المحدد إلى الحافظة. "
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "تحريك مؤشر الفأرة ومؤشر النظام تجاه شريط الأدوات الرئيسي. "
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "الإعلام عن النافذة الحالية"
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "تحريك مؤشر النظام إلى حقل الاسم بنافذة البحث."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"تحريك مؤشر الفأرة ومؤشر النظام تجاه قائمة معطيات البحث أو حقول التحرير لكل "
+"خيار في نافذة البحث."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"تحريك مؤشر النظام تجاه القائمة الأولى بالنافذة الحالية مثل قائمة النتائج في "
+"نافذة البحث، أو التنزيلات أو النقل إلخ. "
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr ""
+"تحريك مؤشر النظام تجاه صناديق التحرير للقراءة فقط في النافذة الحالية مثل "
+"الرسائل المستلمة في بروتوكول IRC للدردشة عبر الإنترنت. "
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr "تحريك مؤشر NVDA ومؤشر الفأرة تجاه رأس القائمة الحالية. "
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "الإعلام عن الكائن الأول في شريط الحالة."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "الإعلام عن الكائن الثاني في شريط الحالة."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "الإعلام عن الكائن الثالث في شريط الحالة."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "الإعلام عن الكائن الرابع في شريط الحالة."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"تحسين إمكانيات سهولة الوصول ببرنامج eMule مع NVDA.\n"
+"eMule هو برنامج لاقتران حاسوب بحاسوب من أجل البحث ومشاركة الملفات.\n"
+"وللمزيد من المعلومات يمكن زيارة.\n"
+"https://www.emule-project.net"
+
+#~ msgid "text \"%s\" not found"
+#~ msgstr "تعذر العثور على النص \"%s\""
+
+#~ msgid "Find Error"
+#~ msgstr "يوجد خطأ"
+
+#~ msgid "Search for:"
+#~ msgstr "البحث عن"
+
+#~ msgid "eMule search"
+#~ msgstr "بحث eMule"
+
+#~ msgid "Opens the find dialog when in read only edit boxes."
+#~ msgstr "فتح محاورة  البحث في حالة صناديق التحرير المقروءة فقط. "
+
+#~ msgid "Find next occurence."
+#~ msgstr "الوصول إلى الظهور التالي للنص الذي قمت بالبحث عنه مسبقا. "
+
+#~ msgid "Find previous occurrence."
+#~ msgstr "الوصول إلى الظهور السابق  للنص الذي قمت بالبحث عنه مسبقا."

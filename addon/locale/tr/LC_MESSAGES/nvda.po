@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule 1.0-dev\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-04 11:33+0200\n"
+"PO-Revision-Date: 2018-09-29 12:54+0300\n"
+"Last-Translator: Çağrı Doğan <cagrid@hotmail.com>\n"
+"Language-Team: TR <cagrid@hotmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "Mevcut liste öğesi için belirtilen sütunu okur."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "%s panoya kopyalandı"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr "Mevcut liste ögesiyle ilgili en son okunan sütunu panoya kopyalar."
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "Sistem odağı ve fareyi ana araç çubuğuna taşır."
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "Mevcut pencereyi okur."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "Sistem odağını arama penceresinde isim alanına taşır."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"Sistem odağını ve fareyi arama penceresinde arama parametreleri veya "
+"düzenleme alanına taşır."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"Sistem odağını mevcut penceredeki ilk liste öğesine taşır. Örneğin, the "
+"arama penceresinde sonuç listesi, transfer edilen indirmeler, vs."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr ""
+"Sistem odağını salt okunur metin alanlarına taşır. Örneğin IRC alınan "
+"mesajlar alanına."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr "Sistem odağı ve nesne sunucusunu mevcut listenin başlık alanına taşır."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "Durum çubuğunda ilk nesneyi okur."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "Durum çubuğunda ikinci nesneyi okur."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "Durum çubuğunda üçüncü nesneyi okur."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "Durum çubuğunda dördüncü nesneyi okur."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"NVDA ile eMule'un erişilebilirliğini artırır.\n"
+"eMule arama ve dosya paylaşımı için bir P2P programıdır.\n"
+"eMule hakkında daha fazla bilgi için\n"
+"http://www.emule-project.net"
+
+#~ msgid "text \"%s\" not found"
+#~ msgstr "Metin \"%s\" bulunamadı"
+
+#~ msgid "Find Error"
+#~ msgstr "Arama hatası"
+
+#~ msgid "Search for:"
+#~ msgstr "Ara:"
+
+#~ msgid "eMule search"
+#~ msgstr "eMule arama"
+
+#~ msgid "Opens the find dialog when in read only edit boxes."
+#~ msgstr "Salt okunur alanlarda bul iletişim kutusunu açar."
+
+#~ msgid "Find next occurence."
+#~ msgstr "Sonrakini bul."
+
+#~ msgid "Find previous occurrence."
+#~ msgstr "Öncekini bul."
