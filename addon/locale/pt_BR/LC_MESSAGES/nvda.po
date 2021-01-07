@@ -1,0 +1,134 @@
+# Brazilian Portuguese translation of eMule add-on.
+# Copyright (C) 2013-2020 NVDA Contributors.
+# This file is distributed under the same license as the NVDA package.
+# Cleverson Casarin Uliana <clever97@gmail.com>, 2013-2014, 2016-2017.
+# Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>, 2018, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eMule add-on\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2013-08-04 11:33+0200\n"
+"PO-Revision-Date: 2020-03-04 20:40-0300\n"
+"Last-Translator: Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>\n"
+"Language-Team: NVDA Brazilian Portuguese translation team (Equipe de "
+"tradução do NVDA para Português Brasileiro) <clever97@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.11\n"
+
+#. Translators: Message presented in input help mode.
+msgid "Reads the specified column for the current list item."
+msgstr "Lê a coluna especificada para o item de lista atual."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "%s copiado para área de transferência"
+
+#. Translators: Message presented in input help mode.
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr ""
+"Copia a última coluna lida do item de lista selecionado para a área de "
+"transferência."
+
+#. Translators: Message presented in input help mode
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr ""
+"Move o foco do sistema e o mouse para a barra de ferramentas principal."
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+msgid "Reports the current window."
+msgstr "Lê a janela atual."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "Move o foco do sistema para o campo nome da janela pesquisar."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus and mouse to the search parameters list or Edit field "
+"for each option, in the Search window."
+msgstr ""
+"Move o foco do sistema e o mouse para a lista de parâmetros de pesquisa ou o "
+"campo de edição de cada opção, na janela pesquisar."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to the first list in the current window. For example "
+"the results list in the Search window, downloads in Transfer, etc."
+msgstr ""
+"Move o foco do sistema para a primeira lista na janela atual. Por exemplo a "
+"lista de resultados na janela pesquisar, baixados nas transferências, etc."
+
+#. Translators: Message presented in input help mode.
+msgid ""
+"Moves the system focus to read-only edit boxes in the current window. For "
+"example the IRC received messages."
+msgstr ""
+"Move o foco do sistema pelos campos de edição somente leitura da janela "
+"atual, por exemplo as mensagens recebidas por IRC."
+
+#. Translators: Message presented in input help mode.
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr ""
+"Move o objeto de navegação e o mouse para os cabeçalhos da lista atual."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports first object of the Status Bar."
+msgstr "Lê o primeiro objeto da barra de status."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports second object of the Status Bar."
+msgstr "Lê o segundo objeto da barra de status."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports third object of the Status Bar."
+msgstr "Lê o terceiro objeto da barra de status."
+
+#. Translators: Message presented in input help mode.
+msgid "Reports fourth object of the Status Bar."
+msgstr "Lê o quarto objeto da barra de status."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr ""
+"Melhora a acessibilidade do eMule com o NVDA.\n"
+"O eMule é um programa P2P para buscar e compartilhar arquivos.\n"
+"Pode obter mais informações sobre o eMule em\n"
+"http://www.emule-project.net"
+
+#~ msgid "text \"%s\" not found"
+#~ msgstr "texto \"%s\" não achado"
+
+#~ msgid "Find Error"
+#~ msgstr "Erro de busca"
+
+#~ msgid "Search for:"
+#~ msgstr "Pesquisar por:"
+
+#~ msgid "eMule search"
+#~ msgstr "Pesquisa do eMule"
+
+#~ msgid "Opens the find dialog when in read only edit boxes."
+#~ msgstr "Abre o diálogo procurar quando em caixas de edição somente leitura."
+
+#~ msgid "Find next occurence."
+#~ msgstr "Procura próxima ocorrência."
+
+#~ msgid "Find previous occurrence."
+#~ msgstr "Procura ocorrência anterior."
