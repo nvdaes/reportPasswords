@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the reportPasswords package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: eMule 1.0-dev\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-08-04 11:33+0200\n"
-"PO-Revision-Date: 2020-01-12 15:42+0100\n"
+"Project-Id-Version: reportPasswords 1.1\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2020-03-15 00:06+1000\n"
+"PO-Revision-Date: 2020-03-14 16:32+0100\n"
 "Last-Translator: Ondrej Rosík <ondrej.rosik@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -17,110 +17,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.6.11\n"
 
-#. Translators: Message presented in input help mode.
-msgid "Reads the specified column for the current list item."
-msgstr "Prečíta vybratý stĺpec pre aktuálnu položku."
+#. Translators: the label of a message box dialog.
+msgid ""
+"If you want to hear typed characters in protected controls like passwords, "
+"you need to enable the Report passwords option of this add-on and configure "
+"NVDA to speak typed characters. This may be useful just in certain "
+"situations, so you can create an NVDA's configuration profile for this. Do "
+"you want to set these options in a profile named reportPasswords with these "
+"settings now?"
+msgstr ""
+"Ak chcete pri písaní do heslových editačných polí počuť napísané znaky, je "
+"potrebné zapnúť túto možnosť v nastaveniach doplnku. Toto môžete chcieť len "
+"v niektorých situáciách, preto vám odporúčame vytvoriť si profil, ktorý "
+"budete v týchto prípadoch používať. Želáte si nastaviť profil?"
 
-#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#. Translators: the title of a message box dialog.
+msgid "Set a dedicated profile for this add-on"
+msgstr "Nastavenie profilu"
+
+#. Translators: label of a dialog.
+msgid "&Report passwords"
+msgstr "&Oznamovanie hesiel"
+
+#. Translators: Describes a command.
 #, python-format
-msgid "%s copied to clipboard"
-msgstr "%s skopírované do schránky"
-
-#. Translators: Message presented in input help mode.
-msgid "Copies the last read column of the selected list item to clipboard."
-msgstr "Skopíruje posledný prečítaný stĺpec pre aktuálnu položku do schránky."
-
-#. Translators: Message presented in input help mode
-msgid "Moves the system focus and mouse to the main Tool Bar."
-msgstr "presunie systémový fokus a myš na hlavný panel nástrojov."
-
-#. Translators: Message presented in input help mode.
-#. For instance: reads the search window, Statistics, IRC, etc.
-msgid "Reports the current window."
-msgstr "prečíta názov aktuálneho okna."
-
-#. Translators: Message presented in input help mode.
-msgid "Moves the system focus to the Name field of the Search window."
-msgstr "presunie systémový kurzor na pole názov v okne hľadania."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus and mouse to the search parameters list or Edit field "
-"for each option, in the Search window."
-msgstr ""
-"presunie systémový fokus a myš na zoznam parametrov hľadania alebo na "
-"editačné pole pre každý parameter v okne hľadania."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus to the first list in the current window. For example "
-"the results list in the Search window, downloads in Transfer, etc."
-msgstr ""
-"presunie systémový fokus do prvého zoznamu v aktuálnom okne. Napríklad do "
-"zoznamu výsledkov v okne hľadania, alebo do zoznamu sťahovania pri prenose a "
-"podobne."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus to read-only edit boxes in the current window. For "
-"example the IRC received messages."
-msgstr "Presunie systémový fokus do neprepisovateľných polí, napr správ IRC."
-
-#. Translators: Message presented in input help mode.
-msgid "Moves the navigator object and mouse to the current list headers."
-msgstr "presunie systémový kurzor a myš na hlavičky aktuálneho zoznamu."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports first object of the Status Bar."
-msgstr "prečíta prvý objekt na stavovom riadku."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports second object of the Status Bar."
-msgstr "prečíta druhý objekt na stavovom riadku."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports third object of the Status Bar."
-msgstr "prečíta tretí objekt na stavovom riadku."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports fourth object of the Status Bar."
-msgstr "prečíta štvrtý objekt na stavovom riadku."
+msgid "Shows the %s settings."
+msgstr "Zobrazí dialóg s nastaveniami doplnku %s."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
-msgid "eMule"
-msgstr "eMule"
+msgid "Report Passwords"
+msgstr "Oznamovanie hesiel"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid ""
-"Improves eMule's accessibility with NVDA.\n"
-"eMule is a P2P program to search and share files.\n"
-"You can get more information about eMule at\n"
-"http://www.emule-project.net"
+"When this add-on is installed, NVDA can report the text typed in protected "
+"controls such as passwords."
 msgstr ""
-"Zlepšuje prístupnosť programu eMule s NVDA.\n"
-"EMule je P2P program na vyhľadávanie a zdieľanie súborov.\n"
-"Viac Informácií o eMule nájdete na\n"
-"https://www.emule-project.net"
-
-#~ msgid "text \"%s\" not found"
-#~ msgstr "text \"%s\" nebol nájdený"
-
-#~ msgid "Find Error"
-#~ msgstr "Chyba vyhľadávania"
-
-#~ msgid "Search for:"
-#~ msgstr "Hľadať:"
-
-#~ msgid "eMule search"
-#~ msgstr "Hľadať"
-
-#~ msgid "Opens the find dialog when in read only edit boxes."
-#~ msgstr "otvorí dialóg hľadania  v editačných poliach len na čítanie."
-
-#~ msgid "Find next occurence."
-#~ msgstr "Hľadá ďalší výskyt reťazca."
-
-#~ msgid "Find previous occurrence."
-#~ msgstr "Hľadá predchádzajúci výskyt reťazca."
+"NVDA po nainštalovaní doplnku dokáže oznamovať napísané heslá v chránených "
+"editačných poliach."

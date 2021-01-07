@@ -1,133 +1,62 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the reportPasswords package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: eMule 1.0-dev\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-08-04 11:33+0200\n"
-"PO-Revision-Date: 2018-10-03 02:33+0200\n"
-"Last-Translator: René Linke <rene.linke@hamburg.de>\n"
-"Language-Team: Deutsch <bernd_dorer@yahoo.de>\n"
+"Project-Id-Version: reportPasswords 1.1\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2020-03-15 00:06+1000\n"
+"PO-Revision-Date: 2020-04-21 14:47+0200\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
 
-#. Translators: Message presented in input help mode.
-msgid "Reads the specified column for the current list item."
-msgstr "Liest die angegebene Spalte für das aktuelle Listenelement."
+#. Translators: the label of a message box dialog.
+msgid ""
+"If you want to hear typed characters in protected controls like passwords, "
+"you need to enable the Report passwords option of this add-on and configure "
+"NVDA to speak typed characters. This may be useful just in certain "
+"situations, so you can create an NVDA's configuration profile for this. Do "
+"you want to set these options in a profile named reportPasswords with these "
+"settings now?"
+msgstr ""
+"Wenn Sie eingegebene Zeichen in geschützten Steuerelementen wie Kennwörtern "
+"hören möchten, müssen Sie die Option Kennwörter melden dieser Erweiterung "
+"aktivieren und NVDA so konfigurieren, dass eingegebene Zeichen gesprochen "
+"werden. Dies kann nur in bestimmten Situationen nützlich sein, so dass Sie "
+"ein Konfigurationsprofil von NVDA dafür erstellen können. Möchten Sie diese "
+"Optionen jetzt in einem Profil Passwörter ansagen mit diesen Einstellungen "
+"festlegen?"
 
-#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#. Translators: the title of a message box dialog.
+msgid "Set a dedicated profile for this add-on"
+msgstr "Passendes Profil für diese Erweiterung festlegen"
+
+#. Translators: label of a dialog.
+msgid "&Report passwords"
+msgstr "Passwörter &ansagen"
+
+#. Translators: Describes a command.
 #, python-format
-msgid "%s copied to clipboard"
-msgstr "%s in die Zwischenablage kopiert."
-
-#. Translators: Message presented in input help mode.
-msgid "Copies the last read column of the selected list item to clipboard."
-msgstr ""
-"Kopiert die letzte Lesespalte des ausgewählten Listenelements in die "
-"Zwischenablage."
-
-#. Translators: Message presented in input help mode
-msgid "Moves the system focus and mouse to the main Tool Bar."
-msgstr "Bewegt den System-Fokus und die Maus auf die Hauptsymbolleiste."
-
-#. Translators: Message presented in input help mode.
-#. For instance: reads the search window, Statistics, IRC, etc.
-msgid "Reports the current window."
-msgstr "Liest das aktuelle Fenster vor."
-
-#. Translators: Message presented in input help mode.
-msgid "Moves the system focus to the Name field of the Search window."
-msgstr "Bewegt den System-Fokus in das Suchfeld des Fensters."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus and mouse to the search parameters list or Edit field "
-"for each option, in the Search window."
-msgstr ""
-"Bewegt den System-Fokus und die Maus auf die Liste der Suchparameter oder "
-"das Feld Bearbeiten für jede Option im Suchfenster."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus to the first list in the current window. For example "
-"the results list in the Search window, downloads in Transfer, etc."
-msgstr ""
-"Bewegt den System-Fokus auf die erste Liste im aktuellen Fenster. Zum "
-"Beispiel die Ergebnisliste im Suchfenster, Downloads im Transfer, etc."
-
-#. Translators: Message presented in input help mode.
-msgid ""
-"Moves the system focus to read-only edit boxes in the current window. For "
-"example the IRC received messages."
-msgstr ""
-"Bewegt den System-Fokus auf schreibgeschützte Eingabefelder im aktuellen "
-"Fenster. Zum Beispiel hat der IRC Nachrichten empfangen."
-
-#. Translators: Message presented in input help mode.
-msgid "Moves the navigator object and mouse to the current list headers."
-msgstr ""
-"Bewegt das Navigat-Orobjekt und die Maus auf die aktuellen "
-"Listenüberschriften."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports first object of the Status Bar."
-msgstr "Liest das erste Objekt der Statusleiste vor."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports second object of the Status Bar."
-msgstr "Liest das zweite Objekt der Statusleiste vor."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports third object of the Status Bar."
-msgstr "Liest das dritte Objekt der Statusleiste vor."
-
-#. Translators: Message presented in input help mode.
-msgid "Reports fourth object of the Status Bar."
-msgstr "Liest das vierte Objekt der Statusleiste vor."
+msgid "Shows the %s settings."
+msgstr "Zeigt die %s-Einstellungen an."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
-msgid "eMule"
-msgstr "eMule"
+msgid "Report Passwords"
+msgstr "Passwörter ansagen"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid ""
-"Improves eMule's accessibility with NVDA.\n"
-"eMule is a P2P program to search and share files.\n"
-"You can get more information about eMule at\n"
-"http://www.emule-project.net"
+"When this add-on is installed, NVDA can report the text typed in protected "
+"controls such as passwords."
 msgstr ""
-"Verbessert die Zugänglichkeit von eMule mit NVDA.\n"
-"eMule ist ein P2P-Programm zum Suchen und Teilen von Dateien.\n"
-"Weitere Informationen zu eMule finden Sie unter https://www.emule-project."
-"net.."
-
-#~ msgid "text \"%s\" not found"
-#~ msgstr "Text \"%s\" konnte nicht gefunden werden."
-
-#~ msgid "Find Error"
-#~ msgstr "Fehler beim Suchen"
-
-#~ msgid "Search for:"
-#~ msgstr "Suchen nach:"
-
-#~ msgid "eMule search"
-#~ msgstr "eMule-Suche"
-
-#~ msgid "Opens the find dialog when in read only edit boxes."
-#~ msgstr ""
-#~ "Öffnet das Dialogfeld Suchen, wenn Sie sich in geschützten Eingabefeldern "
-#~ "befinden."
-
-#~ msgid "Find next occurence."
-#~ msgstr "Nächstes Vorkommen suchen."
-
-#~ msgid "Find previous occurrence."
-#~ msgstr "Vorheriges Vorkommen suchen."
+"Wenn diese Erweiterung installiert ist, kann NVDA den eingegebenen Text in "
+"geschützten Steuerelementen wie bspw. Passwörter ansagen."
