@@ -15,6 +15,9 @@ The add-on can be configured from its category in the NVDA's settings dialog, un
 
 Tip: If you have not configured NVDA to speak typed characters or words but want to hear typed text in passwords, you may create a configuration profile to enable the speaking of typed characters and passwords, and assign it to a gesture or create a trigger to enable it automatically in certain situations. For convenience, NVDA will ask if you want to create a dedicated profile when the add-on is installed.
 
+## Changes for 2.0 ##
+* Compatible with NVDA 2021.1 and beyond.
+
 ## Changes for 1.0 ##
 * Initial version.
 
