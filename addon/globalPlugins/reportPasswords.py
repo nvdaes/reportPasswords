@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # reportPasswords: plugin to avoid keyboard echo suppressing on protected controls
-#Copyright (C) 2016-2019 Noelia Ruiz Martínez
+# Copyright (C) 2016-2019 Noelia Ruiz Martínez
 # Released under GPL 2
 
 import globalPluginHandler
@@ -25,8 +25,10 @@ config.conf.spec["reportPasswords"] = confspec
 
 isTypingProtected = api.isTypingProtected
 
+
 def restoreIsProtected():
 	api.isTypingProtected = isTypingProtected
+
 
 def addonIsTypingProtected():
 	if config.conf["reportPasswords"]["unprotectControls"]:
@@ -34,6 +36,7 @@ def addonIsTypingProtected():
 	focus = api.getFocusObject()
 	if focus.isProtected:
 		return True
+
 
 class AddonSettingsPanel(SettingsPanel):
 
@@ -50,6 +53,7 @@ class AddonSettingsPanel(SettingsPanel):
 
 	def onSave(self):
 		config.conf["reportPasswords"]["unprotectControls"] = self.reportPasswordsCheckBox.GetValue()
+
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
