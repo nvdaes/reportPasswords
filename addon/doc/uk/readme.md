@@ -1,4 +1,4 @@
-# Report Passwords #
+# Report Passwords (Промовляння паролів) #
 * Автори: Noelia Ruiz Martínez
 * Сумісний з NVDA: 2019.3 або новішими версіями
 * Завантажити [стабільну версію][1]
