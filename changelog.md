@@ -1,3 +1,2 @@
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1
-
+## Changes for 2.1 ##
+* Updated translation.
