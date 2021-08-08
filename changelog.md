@@ -1,2 +1,2 @@
-## Changes for 2.1 ##
+## Changes for 2.2 ##
 * Updated translation.
