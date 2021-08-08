@@ -38,7 +38,6 @@ jobs:
         git commit -a -m "Update buildVars"
         git push origin HEAD:main
     - name: Build add-on
-      if: always()
       run: scons
     - name: Calculate sha256
       run: sha256sum *.nvda-addon >> changelog.md
