@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-
+import os.path
 # Build customizations
 # Change this file instead of sconstruct or manifest files, whenever possible.
 
@@ -11,31 +11,31 @@ addon_info = {
 	# for previously unpublished addons, please follow the community guidelines at:
 	# https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt
 	# add-on Name, internal for nvda
-	"addon_name" : "reportPasswords",
+	"addon_name": "reportPasswords",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on to be shown on installation and add-on information.
-	"addon_summary" : _("Report Passwords"),
+	"addon_summary": _("Report Passwords"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description" : _("""When this add-on is installed, NVDA can report the text typed in protected controls such as passwords."""),
+	"addon_description": _("""When this add-on is installed, NVDA can report the text typed in protected controls such as passwords."""),
 	# version
-	"addon_version" : "2.2",
+	"addon_version": "2.2",
 	# Author(s)
-	"addon_author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
+	"addon_author": u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
-	"addon_url" : "https://addons.nvda-project.org/addons/reportPasswords",
+	"addon_url": "https://addons.nvda-project.org/addons/reportPasswords",
 	# Documentation file name
-	"addon_docFileName" : "readme.html",
+	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3")
-	"addon_minimumNVDAVersion" : "2019.3",
+	"addon_minimumNVDAVersion": "2019.3",
 	# Last NVDA version supported/tested (e.g. "2018.4", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion" : "2021.1",
+	"addon_lastTestedNVDAVersion": "2021.1",
 	# Add-on update channel (default is stable or None)
-	"addon_updateChannel" : None,
+	"addon_updateChannel": None,
 }
 
 
-import os.path
+
 
 # Define the python files that are the sources of your add-on.
 # You can use glob expressions here, they will be expanded.
