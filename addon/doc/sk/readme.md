@@ -24,6 +24,9 @@ písaní hesiel. Profil aktivujte klávesovou skratkou, alebo môžete nastaviť
 aktiváciu vzhľadom na situáciu. Doplnok sa po nainštalovaní opýta, či chcete
 takýto profil vytvoriť.
 
+## Changes for 2.0 ##
+* Compatible with NVDA 2021.1.
+
 ## Verzia 1.0 ##
 * Prvé vydanie.
 

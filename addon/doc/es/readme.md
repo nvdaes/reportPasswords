@@ -28,6 +28,9 @@ activarlo automáticamente en ciertas situaciones. Para tu comodidad, NVDA te
 preguntará si deseas crear un perfil dedicado cuando instales el
 complemento.
 
+## Cambios para 2.0 ##
+* Compatible con NVDA 2021.1.
+
 ## Cambios para 1.0 ##
 * Versión inicial.
 

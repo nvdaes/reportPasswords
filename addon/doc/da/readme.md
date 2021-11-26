@@ -25,6 +25,9 @@ adgangskoder og tildele den til en kommando eller oprette en
 konfigurationsprofil. NVDA vil desuden spørge dig om du vil oprette en
 dedikeret profil, når tilføjelsen er installeret.
 
+## Changes for 2.0 ##
+* Compatible with NVDA 2021.1.
+
 ## Ændringer i 1.0 ##
 * Første version.
 

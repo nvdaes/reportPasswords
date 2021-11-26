@@ -29,6 +29,9 @@ bestimmten Situationen automatisch zu aktivieren. Der Einfachheit halber
 fragt NVDA Sie bei der Installation des Add-Ons, ob Sie ein eigenes Profil
 einrichten möchten.
 
+## Änderungen in 2.0 ##
+* Kompatibel mit NVDA 2021.1.
+
 ## Änderungen in 1.0 ##
 * Erste Version.
 
