@@ -26,6 +26,9 @@ te ga dodijeliti jednoj gesti. Također možeš stvoriti okidač, koji govor
 aktivira automatski u određenim situacijama. Radi praktičnosti, NVDA će te
 pitati, želiš li stvoriti određeni profil kad se dodatak instalira.
 
+## Changes for 2.0 ##
+* Compatible with NVDA 2021.1.
+
 ## Promjene u 1.0 ##
 * Prvo izdanje.
 

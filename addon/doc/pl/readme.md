@@ -24,6 +24,9 @@ gesture or create a trigger to enable it automatically in certain
 situations. For convenience, NVDA will ask if you want to create a dedicated
 profile when the add-on is installed.
 
+## Changes for 2.0 ##
+* Compatible with NVDA 2021.1.
+
 ## Zmiany dla wersji 1.0 ##
 * Wersja pierwoant.
 

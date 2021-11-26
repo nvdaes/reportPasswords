@@ -28,6 +28,9 @@ automaticamente en certas situacións. Para maior conveniencia, NVDA
 preguntará se desexas configurar un perfil dedicado cando o complemento se
 instale.
 
+## Cambios para 2.0 ##
+* Compatible con NVDA 2021.1.
+
 ## Cambios para 1.0 ##
 * Versión inicial.
 
