@@ -28,8 +28,8 @@ automatiquement dans certaines situations. Pour plus de commodité, NVDA vous
 demandera si vous souhaitez définir un profil dédié lorsque l'extension est
 installée.
 
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1.
+## Changements pour la version 2.0 ##
+* Compatible avec NVDA 2021.1.
 
 ## Changements pour la version 1.0 ##
 * Première version.
