@@ -39,6 +39,13 @@ def addonIsTypingProtected():
 		return True
 
 
+def disableInSecureMode(decoratedCls):
+	if globalVars.appArgs.secure:
+		return globalPluginHandler.GlobalPlugin
+	return decoratedCls
+
+
+@disableInSecureMode
 class AddonSettingsPanel(SettingsPanel):
 
 	title = ADDON_SUMMARY
