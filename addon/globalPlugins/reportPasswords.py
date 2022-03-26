@@ -7,6 +7,7 @@
 import wx
 
 import globalPluginHandler
+import globalVars
 import api
 import config
 import gui
