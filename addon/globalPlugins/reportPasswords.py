@@ -1,13 +1,14 @@
 # -*- coding: UTF-8 -*-
 
 # reportPasswords: plugin to avoid keyboard echo suppressing on protected controls
-# Copyright (C) 2016-2019 Noelia Ruiz Martínez
+# Copyright (C) 2016-2022 Noelia Ruiz Martínez
 # Released under GPL 2
+
+import wx
 
 import globalPluginHandler
 import api
 import config
-import wx
 import gui
 from gui import SettingsPanel, NVDASettingsDialog, guiHelper
 from scriptHandler import script

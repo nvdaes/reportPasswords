@@ -4,8 +4,9 @@
 # Copyright (C) 2016-2019 Noelia Ruiz Martínez
 # Released under GPL 2
 
-import gui
 import wx
+
+import gui
 import config
 import addonHandler
 
