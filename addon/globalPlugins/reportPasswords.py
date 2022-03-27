@@ -46,7 +46,6 @@ def disableInSecureMode(decoratedCls):
 	return decoratedCls
 
 
-@disableInSecureMode
 class AddonSettingsPanel(SettingsPanel):
 
 	title = ADDON_SUMMARY
@@ -64,6 +63,7 @@ class AddonSettingsPanel(SettingsPanel):
 		config.conf["reportPasswords"]["unprotectControls"] = self.reportPasswordsCheckBox.GetValue()
 
 
+@disableInSecureMode
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	def __init__(self):
