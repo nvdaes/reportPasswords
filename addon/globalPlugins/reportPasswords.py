@@ -7,6 +7,7 @@
 import wx
 
 import globalPluginHandler
+import globalVars
 import api
 import config
 import gui
@@ -39,6 +40,12 @@ def addonIsTypingProtected():
 		return True
 
 
+def disableInSecureMode(decoratedCls):
+	if globalVars.appArgs.secure:
+		return globalPluginHandler.GlobalPlugin
+	return decoratedCls
+
+
 class AddonSettingsPanel(SettingsPanel):
 
 	title = ADDON_SUMMARY
@@ -56,6 +63,7 @@ class AddonSettingsPanel(SettingsPanel):
 		config.conf["reportPasswords"]["unprotectControls"] = self.reportPasswordsCheckBox.GetValue()
 
 
+@disableInSecureMode
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	def __init__(self):
