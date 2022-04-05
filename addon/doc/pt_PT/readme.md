@@ -25,6 +25,10 @@ acionador para o activar automaticamente em certas situações. Para
 facilitar, o NVDA perguntará se quer criar um perfil dedicado quando o extra
 é instalado.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## Changes for 2.0 ##
 * Compatible with NVDA 2021.1.
 

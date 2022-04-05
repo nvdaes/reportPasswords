@@ -27,6 +27,10 @@ tetikleyici oluşturabilirsiniz. belirli durumlarda otomatik olarak
 etkinleştirin. Kolaylık sağlamak için NVDA, eklenti yüklendiğinde özel bir
 profil oluşturmak isteyip istemediğinizi soracaktır.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## 2.0 için değişiklikler ##
 * NVDA 2021.1 ile uyumlu.
 

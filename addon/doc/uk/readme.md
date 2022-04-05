@@ -25,6 +25,10 @@
 автоматичної активації в певних ситуаціях. Для зручності NVDA запитає, чи
 хочете ви встановити спеціальний профіль при встановленні додатка.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## Changes for 2.0 ##
 * Compatible with NVDA 2021.1.
 

@@ -28,6 +28,10 @@ automaticamente en certas situacións. Para maior conveniencia, NVDA
 preguntará se desexas configurar un perfil dedicado cando o complemento se
 instale.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## Cambios para 2.0 ##
 * Compatible con NVDA 2021.1.
 

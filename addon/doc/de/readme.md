@@ -29,6 +29,10 @@ bestimmten Situationen automatisch zu aktivieren. Der Einfachheit halber
 fragt NVDA Sie bei der Installation des Add-Ons, ob Sie ein eigenes Profil
 einrichten möchten.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## Änderungen in 2.0 ##
 * Kompatibel mit NVDA 2021.1.
 
