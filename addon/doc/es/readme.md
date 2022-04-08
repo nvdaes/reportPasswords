@@ -28,9 +28,9 @@ activarlo automáticamente en ciertas situaciones. Para tu comodidad, NVDA te
 preguntará si deseas crear un perfil dedicado cuando instales el
 complemento.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## Cambios para 3.0 ##
+* No se puede ejecutar en modo seguro.
+* Compatible con NVDA 2022.1.
 
 ## Cambios para 2.0 ##
 * Compatible con NVDA 2021.1.
