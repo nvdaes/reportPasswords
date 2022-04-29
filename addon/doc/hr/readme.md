@@ -1,6 +1,6 @@
 # Javi lozinke (Report Passwords) #
 * Autori: Noelia Ruiz Martínez
-* NVDA kompatibilnost: 2019.3 ili noviji
+* NVDA kompatibilnost: 2019.3 ili novija verzija
 * Preuzmi [stabilnu verziju][1]
 * Preuzmi [razvojnu verziju][2]
 
@@ -26,14 +26,14 @@ te ga dodijeliti jednoj gesti. Također možeš stvoriti okidač, koji govor
 aktivira automatski u određenim situacijama. Radi praktičnosti, NVDA će te
 pitati, želiš li stvoriti određeni profil kad se dodatak instalira.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## Promjene u verziji 3.0 ##
+* Ne može pokretati u sigurnom modusu.
+* Kompatibilno s NVDA čitačem 2022.1.
 
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1.
+## Promjene u verziji 2.0 ##
+* Kompatibilno s NVDA čitačem 2021.1.
 
-## Promjene u 1.0 ##
+## Promjene u verziji 1.0 ##
 * Prvo izdanje.
 
 
