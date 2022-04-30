@@ -24,6 +24,10 @@ syötekomennon tai luoda käynnistimen, jolla se otetaan käyttöön
 automaattisesti tietyissä tilanteissa. Mukavuuden vuoksi NVDA kysyy lisäosan
 asennuksen yhteydessä, haluatko luoda tällaisen profiilin.
 
+## Muutokset versiossa 3.0 ##
+* Ei voida suorittaa suojatussa tilassa.
+* Yhteensopiva NVDA 2022.1:n kanssa.
+
 ## Muutokset versiossa 2.0 ##
 * Yhteensopiva NVDA 2021.1:n kanssa.
 

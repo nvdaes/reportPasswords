@@ -28,6 +28,10 @@ automatiquement dans certaines situations. Pour plus de commodité, NVDA vous
 demandera si vous souhaitez définir un profil dédié lorsque l'extension est
 installée.
 
+## Changes for 3.0 ##
+* Cannot be run in secure mode.
+* Compatible with NVDA 2022.1.
+
 ## Changements pour la version 2.0 ##
 * Compatible avec NVDA 2021.1.
 
