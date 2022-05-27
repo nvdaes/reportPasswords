@@ -1,8 +1,8 @@
 # Oznamovanie hesiel #
+
 * Autor: Noelia Ruiz Martínez
-* Funguje s NVDA od verzie 2019.3
-* Stiahnuť [stabilnú verziu][1]
-* Stiahnuť [vývojovú verziu][2]
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Umožňuje čítať napísané znaky pri písaní do heslových editačných polí,
 napríklad pri prihlasovaní do e-mailového konta, keď sa bežne zobrazujú len
@@ -33,7 +33,6 @@ takýto profil vytvoriť.
 
 ## Verzia 1.0 ##
 * Prvé vydanie.
-
 
 [[!tag dev stable]]
 

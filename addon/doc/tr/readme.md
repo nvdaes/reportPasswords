@@ -1,8 +1,8 @@
 # Şifreleri Bildir #
+
 * Yazarlar: Noelia Ruiz Martínez
-* NVDA uyumluluğu: 2019.3 veya üstü
-* [Kararlı sürümü][1] indir
-* [geliştirme sürümünü][2] indir
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Bu eklenti, yazılan karakterlerin yıldız işareti olarak söylendiği web
 tabanlı e-posta sitelerinde oturum açarkenki gibi, parolalar gibi korumalı
@@ -36,7 +36,6 @@ profil oluşturmak isteyip istemediğinizi soracaktır.
 
 ## 1.0 için değişiklikler ##
 * İlk sürüm.
-
 
 [[!tag dev stable]]
 

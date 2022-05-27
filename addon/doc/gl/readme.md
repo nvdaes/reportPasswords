@@ -1,8 +1,8 @@
 # Report Passwords #
+
 * Autores: Noelia Ruiz Martínez
-* Compatibilidade con NVDA: 2019.3 ou posterior
-* Descargar [versión estable][1]
-* Descargar [versión de desenvolvemento][2]
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Este complemento engade a opción de falar o texto escrito en controis
 protexidos como contrasinais, por exemplo, ao iniciar sesión en sitios de
@@ -37,7 +37,6 @@ instale.
 
 ## Cambios para 1.0 ##
 * Versión inicial.
-
 
 [[!tag dev stable]]
 
