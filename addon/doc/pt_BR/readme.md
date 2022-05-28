@@ -1,8 +1,8 @@
 # Informar Senhas (Report Passwords) #
+
 * Autores: Noelia Ruiz Martínez
-* Compatibilidade com NVDA: 2019.3 ou posteriores
-* Baixe a [versão estável][1]
-* Baixe a [versão em desenvolvimento][2]
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Esse complemento adiciona a opção de falar o texto digitado em controles
 protegidos, como senhas, como ao fazer login em sites de e-mail baseados na
@@ -36,7 +36,6 @@ criar um perfil dedicado quando o complemento estiver instalado.
 
 ## Alterações na 1.0 ##
 * Versão inicial.
-
 
 [[!tag dev stable]]
 

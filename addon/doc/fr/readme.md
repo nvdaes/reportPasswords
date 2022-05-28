@@ -1,8 +1,8 @@
 # Report Passwords #
+
 * Auteurs: Noelia Ruiz Martínez
-* Compatibilité NVDA: 2019.3 ou ultérieure
-* Télécharger [version stable][1]
-* Télécharger [version de développement][2]
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Cette extension ajoute la possibilité de verbaliser le texte tapé dans les
 contrôles protégés telles que les mots de passe, par exemple lors de la
@@ -37,7 +37,6 @@ installée.
 
 ## Changements pour la version 1.0 ##
 * Première version.
-
 
 [[!tag dev stable]]
 

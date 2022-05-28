@@ -1,8 +1,8 @@
 # Report Passwords #
+
 * Autor: Noelia Ruiz Martínez
-* Zgodność z wersjami NVDA: 2019.3 lub nowsza
-* Pobierz [Wersja stabilna][1]
-* Poberz [wersja rozwojowa][2]
+* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 This add-on adds the option of speaking the text typed in protected controls
 like passwords, such as when logging into web-based email sites, where typed
@@ -33,7 +33,6 @@ profile when the add-on is installed.
 
 ## Zmiany dla wersji 1.0 ##
 * Wersja pierwoant.
-
 
 [[!tag dev stable]]
 
