@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: reportPasswords 1.1\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2020-03-15 00:06+1000\n"
-"PO-Revision-Date: 2020-03-20 13:59+0200\n"
-"Last-Translator: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
+"PO-Revision-Date: 2022-05-30 17:51+0200\n"
+"Last-Translator: Jani Kinnunen <janikinnunen340@gmail.com>\n"
 "Language-Team: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Mikäli haluat kuulla kirjoitetut merkit suojatuissa säätimissä, kuten "
 "salasanojen syöttökentissä, Sinun on otettava käyttöön tämän lisäosan Puhu "
 "salasanat -asetus sekä määritettävä NVDA puhumaan kirjoitetut merkit. Tästä "
-"voi olla hyötyä vain tietyissä tilanteissa, joten voit luoda sitä varten "
+"saattaa olla hyötyä vain tietyissä tilanteissa, joten voit luoda sitä varten "
 "NVDA:n asetusprofiilin. Haluatko ottaa nämä asetukset käyttöön "
 "reportPasswords-nimisessä profiilissa?"
 
@@ -45,7 +45,7 @@ msgstr "&Puhu salasanat"
 #. Translators: Describes a command.
 #, python-format
 msgid "Shows the %s settings."
-msgstr "Näyttää lisäosan %s asetukset."
+msgstr "Näyttää %s-lisäosan asetukset."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.

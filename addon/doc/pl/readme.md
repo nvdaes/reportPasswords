@@ -1,15 +1,17 @@
 # Report Passwords #
 
 * Autor: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
-* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
+* Pobierz [stabilna wersja][1] (kompatybilna z NVDA 2019.3 i nowszymi)
+* Pobierz [wersja rozwojowa][2] (kompatybilna z NVDA 2019.3 i nowszymi)
 
-This add-on adds the option of speaking the text typed in protected controls
-like passwords, such as when logging into web-based email sites, where typed
-characters are spoken as asterisks.
+Ten dodatek dodaje opcję wypowiadania tekstu wpisanego w chronionych
+kontrolkach, takich jak hasła, na przykład podczas logowania do
+internetowych witryn poczty e-mail, w których wpisane znaki są wymawiane
+jako gwiazdki.
 
-Note: NVDA has an option to configure if typed passwords will be spoken in
-Windows terminals. This add-on won't affect those kinds of controls.
+Uwaga: NVDA ma opcję konfiguracji, czy wpisywane hasła będą wypowiadane w
+terminalach systemu Windows. Ten dodatek nie wpłynie na tego rodzaju
+kontrolki.
 
 ## Jak skonfigurować
 
@@ -17,19 +19,19 @@ Dodatek może być skonfigurowany z jego kategorii w ustawieniach NVDA, w meni
 NVDA, meni rozwijane nvda. może być przydzielony gest dla włączanie w
 zdarzeniach wejścia.
 
-Tip: If you have not configured NVDA to speak typed characters or words but
-want to hear typed text in passwords, you may create a configuration profile
-to enable the speaking of typed characters and passwords, and assign it to a
-gesture or create a trigger to enable it automatically in certain
-situations. For convenience, NVDA will ask if you want to create a dedicated
-profile when the add-on is installed.
+Wskazówka: Jeśli nie skonfigurowano NVDA do mówienia wpisanymi znakami lub
+słowami, ale chcesz słyszeć wpisywany tekst w hasłach, możesz utworzyć
+profil konfiguracji, aby umożliwić mówienie wpisanych znaków i haseł, i
+przypisać go do gestu lub utworzyć wyzwalacz, aby włączyć go automatycznie w
+niektórych sytuacjach. Dla wygody NVDA zapyta, czy chcesz utworzyć
+dedykowany profil po zainstalowaniu dodatku.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## Zmiany dla wersji 3.0 ##
+* Nie można uruchomić w trybie bezpiecznym.
+* Kompatybilny z NVDA 2022.1.
 
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1.
+## Zmiany dla wersji 2.0 ##
+* Kompatybilny z NVDA 2021.1.
 
 ## Zmiany dla wersji 1.0 ##
 * Wersja pierwoant.

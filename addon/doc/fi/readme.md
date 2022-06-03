@@ -14,13 +14,14 @@ Windows-päätteissä. Tällä lisäosalla ei ole vaikutusta tällaisiin sääti
 ## Määrittäminen
 
 Lisäosan asetukset voidaan määrittää omasta kategoriastaan NVDA:n
-asetusvalintaikkunasta. Lisäosan asetuspaneelin avaava syötekomento on
-mahdollista määrittää  Syötekomennot-valintaikkunan Asetukset-kategoriasta.
+asetusvalintaikkunasta. Lisäosan asetuspaneelin avaava näppäinkomento on
+mahdollista määrittää  Näppäinkomennot-valintaikkunan
+Asetukset-kategoriasta.
 
 Vihje: Mikäli et ole määrittänyt NVDA:ta puhumaan merkkejä tai sanoja, mutta
 haluat kuulla salasanojen kirjoitetut merkit, voit luoda asetusprofiilin
 kirjoitettujen merkkien ja salasanojen puhumista varten sekä liittää siihen
-syötekomennon tai luoda käynnistimen, jolla se otetaan käyttöön
+näppäinkomennon tai luoda käynnistimen, jolla se otetaan käyttöön
 automaattisesti tietyissä tilanteissa. Mukavuuden vuoksi NVDA kysyy lisäosan
 asennuksen yhteydessä, haluatko luoda tällaisen profiilin.
 
