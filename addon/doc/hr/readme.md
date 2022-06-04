@@ -1,8 +1,8 @@
 # Javi lozinke (Report Passwords) #
 
 * Autori: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
-* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
+* Preuzmi [stabilnu verziju][1] (kompatibilna s NVDA 2019.3 i novijom)
+* Preuzmi [razvojnu verziju][2] (kompatibilna s NVDA 2019.3 i novijom)
 
 Ovaj dodatak dodaje mogućnost izgovaranja teksta, tipkanog u zaštićenim
 kontrolama kao što su lozinke. Npr. prilikom prijave na internetskim
