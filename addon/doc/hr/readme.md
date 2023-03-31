@@ -2,7 +2,6 @@
 
 * Autori: Noelia Ruiz Martínez
 * Preuzmi [stabilnu verziju][1] (kompatibilna s NVDA 2019.3 i novijom)
-* Preuzmi [razvojnu verziju][2] (kompatibilna s NVDA 2019.3 i novijom)
 
 Ovaj dodatak dodaje mogućnost izgovaranja teksta, tipkanog u zaštićenim
 kontrolama kao što su lozinke. Npr. prilikom prijave na internetskim
@@ -38,6 +37,4 @@ pitati, želiš li stvoriti određeni profil kad se dodatak instalira.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

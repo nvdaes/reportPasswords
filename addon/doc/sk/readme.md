@@ -2,7 +2,6 @@
 
 * Autor: Noelia Ruiz Martínez
 * Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
-* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Umožňuje čítať napísané znaky pri písaní do heslových editačných polí,
 napríklad pri prihlasovaní do e-mailového konta, keď sa bežne zobrazujú len
@@ -36,6 +35,4 @@ takýto profil vytvoriť.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

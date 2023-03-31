@@ -2,7 +2,6 @@
 
 * Автори: Noelia Ruiz Martínez
 * Завантажити [стабільну версію][1] (сумісну з NVDA 2019.3 і новішими)
-* Завантажити [версію в розробці][2] (сумісну з NVDA 2019.3 і новішими)
 
 Цей додаток додає опцію промовляння тексту, який вводиться на захищених
 елементах керування, наприклад, паролів на сайтах, коли символи під час
@@ -37,6 +36,4 @@
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

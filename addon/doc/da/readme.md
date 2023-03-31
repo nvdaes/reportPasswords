@@ -2,7 +2,6 @@
 
 * Forfatter: Noelia Ruiz Martinez.
 * Download [stabil version][1] (kompatibel med NVDA 2019.3 og nyere)
-* Download [udviklingsversion][2] (kompatibel med NVDA 2019.3 og nyere)
 
 Denne tilføjelse gør det muligt at utale teksten, der indtastes i beskyttede
 kontroller som adgangskoder, f.eks. Når du logger ind på webbaserede
@@ -37,6 +36,4 @@ dedikeret profil, når tilføjelsen er installeret.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

@@ -2,8 +2,6 @@
 
 * Autores: Noelia Ruiz Martínez
 * [descargar versión estable][1] (compatible con NVDA 2019.3 en diante)
-* Descargar [versión de desenvolvemento][2] (compatible con NVDA 2019.3 en
-  diante)
 
 Este complemento engade a opción de falar o texto escrito en controis
 protexidos como contrasinais, por exemplo, ao iniciar sesión en sitios de
@@ -41,6 +39,4 @@ instale.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords
