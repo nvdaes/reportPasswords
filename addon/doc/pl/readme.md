@@ -2,7 +2,6 @@
 
 * Autor: Noelia Ruiz Martínez
 * Pobierz [stabilna wersja][1] (kompatybilna z NVDA 2019.3 i nowszymi)
-* Pobierz [wersja rozwojowa][2] (kompatybilna z NVDA 2019.3 i nowszymi)
 
 Ten dodatek dodaje opcję wypowiadania tekstu wpisanego w chronionych
 kontrolkach, takich jak hasła, na przykład podczas logowania do
@@ -38,6 +37,4 @@ dedykowany profil po zainstalowaniu dodatku.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

@@ -2,7 +2,6 @@
 
 * Autor: Noelia Ruiz Martínez
 * Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
-* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Este extra adiciona a opção de anunciar as letras digitadas em campos de
 introdução de palavras-passe, como ao iniciar sessão na net, onde
@@ -37,6 +36,4 @@ facilitar, o NVDA perguntará se quer criar um perfil dedicado quando o extra
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

@@ -2,7 +2,6 @@
 
 * Autores: Noelia Ruiz Martínez
 * Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
-* Download [development version][2] (compatible with NVDA 2019.3 and beyond)
 
 Esse complemento adiciona a opção de falar o texto digitado em controles
 protegidos, como senhas, como ao fazer login em sites de e-mail baseados na
@@ -39,6 +38,4 @@ criar um perfil dedicado quando o complemento estiver instalado.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

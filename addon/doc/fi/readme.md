@@ -2,7 +2,6 @@
 
 * Tekijä: Noelia Ruiz Martínez
 * Lataa [vakaa versio][1] (yhteensopiva NVDA 2022.1:n ja uudempien kanssa)
-* Lataa [kehitysversio][2] (yhteensopiva NVDA 2019.3:n ja uudempien kanssa)
 
 Tämän lisäosan avulla NVDA:n saa puhumaan suojattuihin säätimiin kirjoitetun
 tekstin, kuten esim. salasanat kirjauduttaessa verkkopohjaisiin
@@ -37,6 +36,4 @@ asennuksen yhteydessä, haluatko luoda tällaisen profiilin.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

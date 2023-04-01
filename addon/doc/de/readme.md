@@ -2,8 +2,6 @@
 
 * Autor: Noelia Ruiz Martínez
 * [Stabile Version herunterladen][1] (kompatibel mit NVDA 2019.3 und neuer)
-* [Entwicklerversion herunterladen][2] (kompatibel mit NVDA 2019.3 und
-  neuer)
 
 Diese Erweiterung bietet die Möglichkeit, den in geschützten Eingabefeldern
 eingegebenen Text vorzulesen, z. B. beim Anmelden webbasierter
@@ -42,6 +40,4 @@ einrichten möchten.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords

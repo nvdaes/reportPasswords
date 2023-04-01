@@ -3,8 +3,6 @@
 * Автори: Noelia Ruiz Martínez
 * Изтегляне на [стабилна версия][1] (съвместима с NVDA 2019.3 и по-нови
   версии)
-* Изтегляне на [тестова версия][2] (съвместима с NVDA 2019.3 и по-нови
-  версии)
 
 Тази добавка добавя възможност за изговаряне на текста, въведен в защитени
 контроли като пароли, като например при влизане в уеб-базирани сайтове за
@@ -41,6 +39,4 @@
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=rp
-
-[2]: http://addons.nvda-project.org/files/get.php?file=rp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords
