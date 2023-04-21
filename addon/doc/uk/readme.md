@@ -36,4 +36,4 @@
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=reportPasswords
+[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords
