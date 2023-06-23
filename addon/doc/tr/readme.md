@@ -1,7 +1,7 @@
 # Şifreleri Bildir #
 
 * Yazarlar: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
+* [Kararlı sürümü indir][1] (NVDA 2019.3 ve sonrası sürümlerle uyumlu)
 
 Bu eklenti, yazılan karakterlerin yıldız işareti olarak söylendiği web
 tabanlı e-posta sitelerinde oturum açarkenki gibi, parolalar gibi korumalı
@@ -11,7 +11,7 @@ Not: NVDA, yazılan parolaların Windows terminallerinde söylenip
 söylenmeyeceğini yapılandırma seçeneğine sahiptir. Bu eklenti, bu tür
 kontrolleri etkilemez.
 
-## nasıl yapılandırılır
+## Nasıl yapılandırılır
 
 Eklenti, NVDA Tercihler alt menüsü altındaki ayarlar iletişim kutusundaki
 kategorisinden yapılandırılabilir. Eklenti ayarları panelini açmak için bir
@@ -26,9 +26,9 @@ tetikleyici oluşturabilirsiniz. belirli durumlarda otomatik olarak
 etkinleştirin. Kolaylık sağlamak için NVDA, eklenti yüklendiğinde özel bir
 profil oluşturmak isteyip istemediğinizi soracaktır.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## 3.0 için değişiklikler ##
+* Güvenli modda çalışmaz.
+* NVDA 2022.1 ile uyumlu.
 
 ## 2.0 için değişiklikler ##
 * NVDA 2021.1 ile uyumlu.
