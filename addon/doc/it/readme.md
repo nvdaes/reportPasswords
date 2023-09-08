@@ -1,7 +1,6 @@
 # Report Passwords #
 
 * Autore: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
 
 Questo add-on aggiunge l'opzione di annunciare il testo inserito nei
 controlli protetti come le password, ad esempio quando si effettua il login
@@ -38,4 +37,3 @@ installate l'add-on.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

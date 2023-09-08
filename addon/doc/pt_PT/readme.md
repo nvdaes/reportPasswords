@@ -1,7 +1,6 @@
 # Anúncio de palavras -passe #
 
 * Autor: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
 
 Este extra adiciona a opção de anunciar as letras digitadas em campos de
 introdução de palavras-passe, como ao iniciar sessão na net, onde
@@ -36,4 +35,3 @@ facilitar, o NVDA perguntará se quer criar um perfil dedicado quando o extra
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

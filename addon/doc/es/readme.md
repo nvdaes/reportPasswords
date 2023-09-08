@@ -1,7 +1,6 @@
 # Anunciar contraseñas #
 
 * Autores: Noelia Ruiz Martínez
-* Descargar [versión estable][1] (compatible desde NVDA 2019.3 en adelante)
 
 Este complemento añade la opción de verbalizar el texto escrito en controles
 protegidos como contraseñas, tales como los que aparecen al iniciar sesión
@@ -39,4 +38,3 @@ complemento.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

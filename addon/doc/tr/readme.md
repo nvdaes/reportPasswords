@@ -1,7 +1,6 @@
 # Şifreleri Bildir #
 
 * Yazarlar: Noelia Ruiz Martínez
-* [Kararlı sürümü indir][1] (NVDA 2019.3 ve sonrası sürümlerle uyumlu)
 
 Bu eklenti, yazılan karakterlerin yıldız işareti olarak söylendiği web
 tabanlı e-posta sitelerinde oturum açarkenki gibi, parolalar gibi korumalı
@@ -38,4 +37,3 @@ profil oluşturmak isteyip istemediğinizi soracaktır.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords
