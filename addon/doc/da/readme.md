@@ -1,7 +1,6 @@
 # Rapportér Adgangskoder (Report Passwords) #
 
 * Forfatter: Noelia Ruiz Martinez.
-* Download [stabil version][1] (kompatibel med NVDA 2019.3 og nyere)
 
 Denne tilføjelse gør det muligt at utale teksten, der indtastes i beskyttede
 kontroller som adgangskoder, f.eks. Når du logger ind på webbaserede
@@ -36,4 +35,3 @@ dedikeret profil, når tilføjelsen er installeret.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

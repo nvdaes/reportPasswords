@@ -1,7 +1,6 @@
 # Report Passwords #
 
 * Auteurs: Noelia Ruiz Martínez
-* Télécharger [version stable][1] (compatible avec NVDA 2019.3 et au-delà)
 
 Cette extension ajoute la possibilité de verbaliser le texte tapé dans les
 contrôles protégés telles que les mots de passe, par exemple lors de la
@@ -39,4 +38,3 @@ installée.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

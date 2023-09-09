@@ -1,7 +1,6 @@
 # Ilmaise salasanat #
 
 * Tekijä: Noelia Ruiz Martínez
-* Lataa [vakaa versio][1] (yhteensopiva NVDA 2022.1:n ja uudempien kanssa)
 
 Tämän lisäosan avulla NVDA:n saa puhumaan suojattuihin säätimiin kirjoitetun
 tekstin, kuten esim. salasanat kirjauduttaessa verkkopohjaisiin
@@ -36,4 +35,3 @@ asennuksen yhteydessä, haluatko luoda tällaisen profiilin.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

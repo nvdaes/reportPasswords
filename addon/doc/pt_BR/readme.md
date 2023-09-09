@@ -1,7 +1,6 @@
 # Informar Senhas (Report Passwords) #
 
 * Autores: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
 
 Esse complemento adiciona a opção de falar o texto digitado em controles
 protegidos, como senhas, como ao fazer login em sites de e-mail baseados na
@@ -38,4 +37,3 @@ criar um perfil dedicado quando o complemento estiver instalado.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

@@ -1,7 +1,6 @@
 # Oznamovanie hesiel #
 
 * Autor: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
 
 Umožňuje čítať napísané znaky pri písaní do heslových editačných polí,
 napríklad pri prihlasovaní do e-mailového konta, keď sa bežne zobrazujú len
@@ -35,4 +34,3 @@ takýto profil vytvoriť.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

@@ -1,7 +1,6 @@
 # Javi lozinke (Report Passwords) #
 
 * Autori: Noelia Ruiz Martínez
-* Preuzmi [stabilnu verziju][1] (kompatibilna s NVDA 2019.3 i novijom)
 
 Ovaj dodatak dodaje mogućnost izgovaranja teksta, tipkanog u zaštićenim
 kontrolama kao što su lozinke. Npr. prilikom prijave na internetskim
@@ -37,4 +36,3 @@ pitati, želiš li stvoriti određeni profil kad se dodatak instalira.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

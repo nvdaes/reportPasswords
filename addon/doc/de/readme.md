@@ -1,7 +1,6 @@
 # Passwörter ansagen #
 
 * Autor: Noelia Ruiz Martínez
-* [Stabile Version herunterladen][1] (kompatibel mit NVDA 2019.3 und neuer)
 
 Diese Erweiterung bietet die Möglichkeit, den in geschützten Eingabefeldern
 eingegebenen Text vorzulesen, z. B. beim Anmelden webbasierter
@@ -40,4 +39,3 @@ einrichten möchten.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords
