@@ -11,7 +11,8 @@ import globalVars
 import api
 import config
 import gui
-from gui import SettingsPanel, NVDASettingsDialog, guiHelper
+from gui import guiHelper
+from gui.settingsDialogs import SettingsPanel, NVDASettingsDialog
 from scriptHandler import script
 from globalCommands import SCRCAT_CONFIG
 import addonHandler
