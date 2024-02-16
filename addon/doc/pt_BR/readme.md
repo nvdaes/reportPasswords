@@ -1,6 +1,6 @@
 # Informar Senhas (Report Passwords) #
 
-* Autores: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Esse complemento adiciona a opção de falar o texto digitado em controles
 protegidos, como senhas, como ao fazer login em sites de e-mail baseados na

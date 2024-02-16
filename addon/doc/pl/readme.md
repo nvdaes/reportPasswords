@@ -1,6 +1,6 @@
 # Report Passwords #
 
-* Autor: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Ten dodatek dodaje opcję wypowiadania tekstu wpisanego w chronionych
 kontrolkach, takich jak hasła, na przykład podczas logowania do

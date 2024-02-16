@@ -1,6 +1,6 @@
 # Javi lozinke (Report Passwords) #
 
-* Autori: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Ovaj dodatak dodaje mogućnost izgovaranja teksta, tipkanog u zaštićenim
 kontrolama kao što su lozinke. Npr. prilikom prijave na internetskim

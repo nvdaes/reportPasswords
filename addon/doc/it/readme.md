@@ -1,6 +1,6 @@
 # Report Passwords #
 
-* Autore: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Questo add-on aggiunge l'opzione di annunciare il testo inserito nei
 controlli protetti come le password, ad esempio quando si effettua il login

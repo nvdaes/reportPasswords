@@ -20,6 +20,7 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 
 #. Translators: the label of a message box dialog.
+#: addon\installTasks.py:25
 msgid ""
 "If you want to hear typed characters in protected controls like passwords, "
 "you need to enable the Report passwords option of this add-on and configure "
@@ -36,25 +37,30 @@ msgstr ""
 "профиле с именем reportPasswords с этими настройками сейчас?"
 
 #. Translators: the title of a message box dialog.
+#: addon\installTasks.py:31
 msgid "Set a dedicated profile for this add-on"
 msgstr "Установка выделенного профиля для этого дополнения"
 
 #. Translators: label of a dialog.
+#: addon\globalPlugins\reportPasswords.py:56
 msgid "&Report passwords"
 msgstr "&Произносить пароли"
 
 #. Translators: Describes a command.
+#: addon\globalPlugins\reportPasswords.py:83
 #, python-format
 msgid "Shows the %s settings."
 msgstr "Показывает настройки %s."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
 msgid "Report Passwords"
 msgstr "Произносить пароли"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
 msgid ""
 "When this add-on is installed, NVDA can report the text typed in protected "
 "controls such as passwords."
