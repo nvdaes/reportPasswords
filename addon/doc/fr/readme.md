@@ -1,6 +1,6 @@
 # Report Passwords #
 
-* Auteurs: Noelia Ruiz Martínez
+* Auteurs : Noelia Ruiz Martínez
 
 Cette extension ajoute la possibilité de verbaliser le texte tapé dans les
 contrôles protégés telles que les mots de passe, par exemple lors de la

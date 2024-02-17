@@ -1,6 +1,6 @@
 # Anúncio de palavras -passe #
 
-* Autor: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Este extra adiciona a opção de anunciar as letras digitadas em campos de
 introdução de palavras-passe, como ao iniciar sessão na net, onde

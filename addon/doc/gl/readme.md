@@ -1,6 +1,6 @@
 # Report Passwords #
 
-* Autores: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Este complemento engade a opción de falar o texto escrito en controis
 protexidos como contrasinais, por exemplo, ao iniciar sesión en sitios de

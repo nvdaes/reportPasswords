@@ -1,6 +1,6 @@
 # Rapportér Adgangskoder (Report Passwords) #
 
-* Forfatter: Noelia Ruiz Martinez.
+* Authors: Noelia Ruiz Martínez
 
 Denne tilføjelse gør det muligt at utale teksten, der indtastes i beskyttede
 kontroller som adgangskoder, f.eks. Når du logger ind på webbaserede

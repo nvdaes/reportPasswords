@@ -1,6 +1,6 @@
 # Oznamovanie hesiel #
 
-* Autor: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Umožňuje čítať napísané znaky pri písaní do heslových editačných polí,
 napríklad pri prihlasovaní do e-mailového konta, keď sa bežne zobrazujú len

@@ -1,6 +1,6 @@
 # Passwörter ansagen #
 
-* Autor: Noelia Ruiz Martínez
+* Authors: Noelia Ruiz Martínez
 
 Diese Erweiterung bietet die Möglichkeit, den in geschützten Eingabefeldern
 eingegebenen Text vorzulesen, z. B. beim Anmelden webbasierter
