@@ -1,6 +1,6 @@
 # Ilmaise salasanat #
 
-* Authors: Noelia Ruiz Martínez
+* Tekijä: Noelia Ruiz Martínez
 
 Tämän lisäosan avulla NVDA:n saa puhumaan suojattuihin säätimiin kirjoitetun
 tekstin, kuten esim. salasanat kirjauduttaessa verkkopohjaisiin
