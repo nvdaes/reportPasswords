@@ -25,6 +25,9 @@ comando (gesto) ou crie um disparador para ativá-lo automaticamente em
 determinadas situações. Por conveniência, o NVDA perguntará se você deseja
 criar um perfil dedicado quando o complemento estiver instalado.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Changes for 3.0 ##
 * Cannot be run in secure mode.
 * Compatible with NVDA 2022.1.

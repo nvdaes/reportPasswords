@@ -27,6 +27,9 @@ bestimmten Situationen automatisch zu aktivieren. Der Einfachheit halber
 fragt NVDA Sie bei der Installation des Add-Ons, ob Sie ein eigenes Profil
 einrichten möchten.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Änderungen in 3.0 ##
 * Diese Erweiterung kann nicht länger verwendet werden im geschützten Modus.
 * Kompatibel mit NVDA 2022.1.

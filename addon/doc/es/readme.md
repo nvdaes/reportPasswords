@@ -26,6 +26,9 @@ activarlo automáticamente en ciertas situaciones. Para tu comodidad, NVDA te
 preguntará si deseas crear un perfil dedicado cuando instales el
 complemento.
 
+## Cambios para 4.0 ##
+* Compatible con NVDA 2023.1.
+
 ## Cambios para 3.0 ##
 * No se puede ejecutar en modo seguro.
 * Compatible con NVDA 2022.1.

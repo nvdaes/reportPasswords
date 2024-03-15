@@ -26,6 +26,9 @@ automatiquement dans certaines situations. Pour plus de commodité, NVDA vous
 demandera si vous souhaitez définir un profil dédié lorsque l'extension est
 installée.
 
+## Changements pour la version 4.0 ##
+* Compatible avec NVDA 2023.1.
+
 ## Changements pour la version 3.0 ##
 * Ne peut pas être exécuté en mode sécurisé.
 * Compatible avec NVDA 2022.1.

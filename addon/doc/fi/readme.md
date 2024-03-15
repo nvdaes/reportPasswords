@@ -23,6 +23,9 @@ näppäinkomennon tai luoda käynnistimen, jolla se otetaan käyttöön
 automaattisesti tietyissä tilanteissa. Mukavuuden vuoksi NVDA kysyy lisäosan
 asennuksen yhteydessä, haluatko luoda tällaisen profiilin.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Muutokset versiossa 3.0 ##
 * Ei voida suorittaa suojatussa tilassa.
 * Yhteensopiva NVDA 2022.1:n kanssa.
