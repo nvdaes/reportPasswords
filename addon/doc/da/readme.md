@@ -23,6 +23,9 @@ adgangskoder og tildele den til en kommando eller oprette en
 konfigurationsprofil. NVDA vil desuden spørge dig om du vil oprette en
 dedikeret profil, når tilføjelsen er installeret.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Ændringer i 3.0 ##
 * Kan ikke køres i sikker tilstand.
 * Kompatibel med NVDA 2022.1.

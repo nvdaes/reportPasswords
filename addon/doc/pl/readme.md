@@ -24,6 +24,9 @@ przypisać go do gestu lub utworzyć wyzwalacz, aby włączyć go automatycznie 
 niektórych sytuacjach. Dla wygody NVDA zapyta, czy chcesz utworzyć
 dedykowany profil po zainstalowaniu dodatku.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Zmiany dla wersji 3.0 ##
 * Nie można uruchomić w trybie bezpiecznym.
 * Kompatybilny z NVDA 2022.1.

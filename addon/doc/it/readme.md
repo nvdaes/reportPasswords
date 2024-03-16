@@ -25,6 +25,9 @@ un automatismo per abilitarlo in certe situazioni. Per comodità, NVDA vi
 chiederà se volete creare un profilo di configurazione dedicato quando
 installate l'add-on.
 
+## Changes for 4.0 ##
+* Compatible with NVDA 2023.1.
+
 ## Changes for 3.0 ##
 * Cannot be run in secure mode.
 * Compatible with NVDA 2022.1.
