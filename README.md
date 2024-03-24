@@ -1,7 +1,6 @@
 # Report Passwords #
 
 * Authors: Noelia Ruiz Martínez
-* Download [stable version][1] (compatible with NVDA 2019.3 and beyond)
 
 This add-on adds the option of speaking the text typed in protected controls like passwords, such as when logging into web-based email sites, where typed characters are spoken as asterisks.
 
@@ -26,4 +25,3 @@ Tip: If you have not configured NVDA to speak typed characters or words but want
 ## Changes for 1.0 ##
 * Initial version.
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=reportPasswords

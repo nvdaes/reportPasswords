@@ -19,7 +19,7 @@ config.conf.spec["reportPasswords"] = confspec
 
 
 def onInstall():
-	if gui.messageBox(
+	if gui.message.messageBox(
 		_(
 			# Translators: the label of a message box dialog.
 			"If you want to hear typed characters in protected controls like passwords, you need to enable the"

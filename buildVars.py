@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""When this add-on is installed, NVDA can report the text typed in protected controls such as passwords."""),
 	# version
-	"addon_version": "7.0.0",
+	"addon_version": "11.1.0",
 	# Author(s)
 	"addon_author": u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
@@ -27,9 +27,9 @@ addon_info = {
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3")
-	"addon_minimumNVDAVersion": "2019.3",
+	"addon_minimumNVDAVersion": "2023.2",
 	# Last NVDA version supported/tested (e.g. "2018.4", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2023.1",
+	"addon_lastTestedNVDAVersion": "2024.1.0",
 	# Add-on update channel (default is stable or None)
 	"addon_updateChannel": None,
 }

@@ -14,19 +14,7 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "editor.insertSpaces": false,
-	"python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        "tests",
-        "-p",
-        "test_*.py"
-    ],
-    "python.testing.pytestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true,
-    "python.analysis.diagnosticSeverityOverrides": {
-        "reportUndefinedVariable": "none"
-    },
+    "python.analysis.stubPath": "${workspaceFolder}/.vscode/typings",
     "python.analysis.extraPaths": [
         "../nvda/source",
         "../nvda/miscDeps/python"
