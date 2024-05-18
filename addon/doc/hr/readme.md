@@ -1,6 +1,6 @@
 # Javi lozinke (Report Passwords) #
 
-* Authors: Noelia Ruiz Martínez
+* Autori: Noelia Ruiz Martínez
 
 Ovaj dodatak dodaje mogućnost izgovaranja teksta, tipkanog u zaštićenim
 kontrolama kao što su lozinke. Npr. prilikom prijave na internetskim
@@ -24,8 +24,8 @@ te ga dodijeliti jednoj gesti. Također možeš stvoriti okidač, koji govor
 aktivira automatski u određenim situacijama. Radi praktičnosti, NVDA će te
 pitati, želiš li stvoriti određeni profil kad se dodatak instalira.
 
-## Changes for 4.0 ##
-* Compatible with NVDA 2023.1.
+## Promjene u verziji 4.0 ##
+* Kompatibilno s NVDA čitačem 2023.1.
 
 ## Promjene u verziji 3.0 ##
 * Ne može pokretati u sigurnom modusu.
