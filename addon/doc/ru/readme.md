@@ -1,13 +1,14 @@
-# Report Passwords #
+# Сообщать Пароли #
 
 * Авторы: Noelia Ruiz Martínez
 
-This add-on adds the option of speaking the text typed in protected controls
-like passwords, such as when logging into web-based email sites, where typed
-characters are spoken as asterisks.
+Это дополнение добавляет возможность произносить текст, набранный в
+защищенных элементах управления, таких как пароли, например, при входе на
+веб-сайты электронной почты, где набранные символы обозначаются звездочками.
 
-Note: NVDA has an option to configure if typed passwords will be spoken in
-Windows terminals. This add-on won't affect those kinds of controls.
+Примечание: В NVDA есть возможность настроить, будут ли вводимые пароли
+использоваться в терминалах Windows. Это дополнение не повлияет на такие
+элементы управления.
 
 ## Как настроить
 
@@ -15,19 +16,23 @@ Windows terminals. This add-on won't affect those kinds of controls.
 NVDA. В категории «Конфигурация» диалога «Жесты ввода» можно назначить
 комбинацию клавиш для этой панели настроек.
 
-Tip: If you have not configured NVDA to speak typed characters or words but
-want to hear typed text in passwords, you may create a configuration profile
-to enable the speaking of typed characters and passwords, and assign it to a
-gesture or create a trigger to enable it automatically in certain
-situations. For convenience, NVDA will ask if you want to create a dedicated
-profile when the add-on is installed.
+Совет: Если вы не настроили NVDA на произнесение набранных символов или
+слов, но хотите слышать набранный текст в паролях, вы можете создать профиль
+конфигурации, чтобы включить произнесение набранных символов и паролей, и
+назначить на него жест или создать автоматическую привязку для
+автоматического включения в определённых ситуациях. Для удобства NVDA
+спросит вас, хотите ли вы создать выделенный профиль, когда дополнение будет
+установлена.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## Изменения в версии 4.0 ##
+* Совместимо с NVDA 2023.1.
 
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1.
+## Изменения в версии 3.0 ##
+* Не удаётся запустить в безопасном режиме.
+* Совместимо с NVDA 2022.1.
+
+## Изменения в версии 2.0 ##
+* Совместимо с NVDA 2021.1.
 
 ## Изменения в версии 1.0 ##
 * Первоначальная версия.
