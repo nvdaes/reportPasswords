@@ -2,6 +2,11 @@
 
 * Authors: Noelia Ruiz Martínez
 
+
+Important note: This add-on is no longer supported. I agree with the comment posted by Mick Curran on this pull request:
+
+https://github.com/nvaccess/nvda/pull/17481
+
 This add-on adds the option of speaking the text typed in protected controls like passwords, such as when logging into web-based email sites, where typed characters are spoken as asterisks.
 
 Note: NVDA has an option to configure if typed passwords will be spoken in Windows terminals. This add-on won't affect those kinds of controls.
